@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <connection_type>http_connection</connection_type>
+        <id>x_362147_ipinfo_sp.IPInfoToken</id>
+        <multiple_connections>false</multiple_connections>
+        <name>IPInfoToken</name>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-22 06:45:55</sys_created_on>
+        <sys_id>06b5930307244010d141f7108c1ed052</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_362147_ipinfo_sp.IPInfoToken</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_362147_ipinfo_sp">e6d0deb207a00010d141f7108c1ed006</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">e6d0deb207a00010d141f7108c1ed006</sys_scope>
+        <sys_update_name>sys_alias_06b5930307244010d141f7108c1ed052</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-22 06:45:55</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IPInfo Spoke">e6d0deb207a00010d141f7108c1ed006</application>
+        <file_path/>
+        <instance_id>2bf2e8aadb4f3304f492c597059619bd</instance_id>
+        <instance_name>dev90931</instance_name>
+        <name>sys_alias_06b5930307244010d141f7108c1ed052</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><connection_type>http_connection</connection_type><id>x_362147_ipinfo_sp.IPInfoToken</id><multiple_connections>false</multiple_connections><name>IPInfoToken</name><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-22 06:45:55</sys_created_on><sys_id>06b5930307244010d141f7108c1ed052</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_362147_ipinfo_sp.IPInfoToken</sys_name><sys_package display_value="IPInfo Spoke" source="x_362147_ipinfo_sp">e6d0deb207a00010d141f7108c1ed006</sys_package><sys_policy/><sys_scope display_value="IPInfo Spoke">e6d0deb207a00010d141f7108c1ed006</sys_scope><sys_update_name>sys_alias_06b5930307244010d141f7108c1ed052</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-22 06:45:55</sys_updated_on><type>credential</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-159813136</payload_hash>
+        <record_name>x_362147_ipinfo_sp.IPInfoToken</record_name>
+        <reverted_from/>
+        <source>6ed0deb207a00010d141f7108c1ed008</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-22 06:45:55</sys_created_on>
+        <sys_id>ced51b8b07e04010d141f7108c1ed02c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16df23708820000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-22 06:45:55</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>0ad51b8bfce04010010ebddfe2a0582c</update_guid>
+        <update_guid_history>0ad51b8bfce04010010ebddfe2a0582c:-159813136</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-22 06:46:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>9518885bedb4446e9e109a316ca7c604</sys_id>
+        <sys_metadata>06b5930307244010d141f7108c1ed052</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_362147_ipinfo_sp.IPInfoToken</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_362147_ipinfo_sp">e6d0deb207a00010d141f7108c1ed006</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">e6d0deb207a00010d141f7108c1ed006</sys_scope>
+        <sys_scope_delete display_value="">2c0bed134d2140a68b3e5b85d28fccc4</sys_scope_delete>
+        <sys_update_name>sys_alias_06b5930307244010d141f7108c1ed052</sys_update_name>
+        <sys_update_version display_value="sys_alias_06b5930307244010d141f7108c1ed052">ced51b8b07e04010d141f7108c1ed02c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-22 06:46:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
